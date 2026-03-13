@@ -28,26 +28,26 @@ Naive Bayes Model
 Spam / Not Spam Prediction
 
 # 🛠️ Technologies Used
-  Python
-  Streamlit
-  NLTK
-  Scikit-learn
-  Pandas
+  Python,
+  Streamlit,
+  NLTK,
+  Scikit-learn,
+  Pandas,
   NumPy
 
 -> Key techniques used:
-  Natural Language Processing (NLP)
-  TF-IDF Feature Extraction
+  Natural Language Processing (NLP),
+  TF-IDF Feature Extraction,
   Naive Bayes Classification
-
+  
 # 🔎 Machine Learning Model
 
 Three Naive Bayes models were evaluated:
 
 Model	Accuracy
-  GaussianNB	~86%
-  MultinomialNB	~97%
-  BernoulliNB	~98%
+  GaussianNB	~86%,
+  MultinomialNB	~97%,
+  BernoulliNB	~98%,
 
 The Bernoulli Naive Bayes model achieved the best performance and was selected for deployment.
 

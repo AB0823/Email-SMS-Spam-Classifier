@@ -14,17 +14,17 @@ This project uses NLP techniques and machine learning models to automatically de
 
 The pipeline includes:
 Text Input
-   ↓
+   ->
 Text Preprocessing
-   ↓
+->
 Tokenization + Stopword Removal
-   ↓
+   ->
 Lemmatization
-   ↓
+   ->
 TF-IDF Vectorization
-   ↓
+   ->
 Naive Bayes Model
-   ↓
+   ->
 Spam / Not Spam Prediction
 
 # 🛠️ Technologies Used
